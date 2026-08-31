@@ -5,12 +5,6 @@
 #SBATCH --signal=SIGUSR1@120
 #SBATCH --output=logs/slurm-%j.out
 
-# Setup venv
-python -m venv venv
-
-# Activate venv
-source venv/bin/activate
-
 # Uninstall old torch versions
 pip uninstall -y torch torchvision torchaudio
 
