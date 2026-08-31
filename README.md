@@ -89,8 +89,8 @@ pip install transformers datasets evaluate scikit-learn numpy Pillow
 | Gaussian blur | $σ = 0.5 / 1.0 / 2.0$ | TBD |
 | Resize | scale $0.5\times$ / $0.25\times$ → upscale | TBD |
 | Gaussian noise | $σ = 0.02 / 0.05 / 0.10$ | TBD |
-| Color jitter | $±20\%$ brightness/contrast/sat. | TBD |
-| Center | crop $80\%$ | TBD |
+| Color jitter | $±20\\%$ brightness/contrast/sat. | TBD |
+| Center | crop $80\\%$ | TBD |
 
 ---
 ## 7. License & Acknowledgements
