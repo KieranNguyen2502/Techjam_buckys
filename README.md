@@ -1,4 +1,4 @@
-# 5. Robust Detection of AI‑Generated Images Under Real‑World Transformations
+# Robust Detection of AI‑Generated Images Under Real‑World Transformations
 
 Detecting AI-generated images with robustness to real-world post-processing (compression, blur, resizing, noise, color adjustment, cropping).
 
